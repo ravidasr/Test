@@ -26,6 +26,7 @@
     "@capacitor/haptics": "7.0.0",
     "@capacitor/keyboard": "7.0.0",
     "@capacitor/status-bar": "7.0.0",
+    "@ionic-native/barcode-scanner": "^5.36.0",
     "@ionic/angular": "^8.0.0",
     "@ionic/cordova-builders": "^12.1.2",
     "cordova-plugin-ionic": "^5.5.3",
@@ -77,9 +78,7 @@
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {},
-      "phonegap-plugin-barcodescanner": {
-        "ANDROID_SUPPORT_V4_VERSION": "27.+"
-      }
+      "phonegap-plugin-barcodescanner": {}
     },
     "platforms": [
       "android"
